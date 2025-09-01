@@ -1,3 +1,5 @@
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 20px; background-color: #ffffffff; color: black"><b>This is an archived site</b> and is no longer maintained. <a href="https://github.com/luminespire/dusk/blob/main/README.md">Learn more here</a>.</div>
+
 # Motivation
 
 As a [Canary-ortho](https://github.com/Apsu/Canary) user for 14 months and reached about 140 wpm on MonkeyType, its flaws - high SFS and high index workload - start to bother me. 

@@ -1,3 +1,5 @@
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 20px; background-color: #ffffffff; color: black"><b>This is an archived site</b> and is no longer maintained. <a href="https://github.com/luminespire/dusk/blob/main/README.md">Learn more here</a>.</div>
+
 # Introduction
 
 - Site last updated on 06/05/2024
@@ -30,3 +32,4 @@ No idea what LSB, SFS, or SFB means? Check out [terminology](chapters/term.md)!
 - On Desktop, there is a table of contents on the right side for each chapter that has more than 1 section.
 
 - Go to the next/previous chapter by clicking on the `>` and `<` icon located on each side of the screen, respectively.
+
