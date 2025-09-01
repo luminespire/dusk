@@ -12,6 +12,6 @@ title = "Dusk Keyboard Layout"
 site-url = "/dusk/"
 default-theme = "Rust"
 preferred-dark-theme = "Rust"
-git-repository-url="https://github.com/Aorta3698/dusk"
+git-repository-url="https://github.com/luminespire/dusk/"
 additional-css = ["theme/pagetoc.css"]
 additional-js  = ["theme/pagetoc.js"]
