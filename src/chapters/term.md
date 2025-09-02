@@ -4,7 +4,7 @@
     <b>This is an archived site </b> of <a href="https://luminespire.github.io/dusk/">Dusk</a> by <a href="https://github.com/Aorta3698">Zoe Winters</a> and is no longer maintained. <a href="https://github.com/luminespire/dusk/blob/main/README.md">Learn more here</a>.
   </div>
 
-  <span class="close" style="cursor: pointer; font-size: 24px; font-weight: bold; position: relative; top: 6px;">&times;</span>
+  <span class="close" style="cursor: pointer; font-size: 24px; font-weight: bold; position: relative;">&times;</span>
 
 </div>
 
