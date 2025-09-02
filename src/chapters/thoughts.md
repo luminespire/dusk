@@ -9,14 +9,16 @@
 </div>
 
 <script>
-  const closeButtons = document.querySelectorAll('.close');
-  closeButtons.forEach(button => {
-    button.addEventListener('click', (event) => {
-      let collapsible = event.target.closest('.collapsible');
-      if (collapsible) {
-        collapsible.style.display = 'none';
-      }
-    });
+  const banner = document.querySelector('.collapsible');
+  const closeButton = banner.querySelector('.close');
+
+  if (localStorage.getItem('bannerClosed') === 'true') {
+    banner.style.display = 'none';
+  }
+
+  closeButton.addEventListener('click', (event) => {
+    banner.style.display = 'none';
+    localStorage.setItem('bannerClosed', 'true');
   });
 </script>
 
